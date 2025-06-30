@@ -99,7 +99,8 @@ venv\Scripts\activate   # On Windows
 ### 3. Install Requirements
 
 ```bash
-pip install -r requirements.txt
+pip install appwrite
+pip install customtkinter
 ```
 
 > Make sure your Appwrite project is configured with:

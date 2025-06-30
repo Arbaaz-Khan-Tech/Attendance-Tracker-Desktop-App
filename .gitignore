@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Config and secrets
+/config/config.py
+.env
+
+# Virtual environment
+venv/
+.venv/
+env/
+ENV/
+*.env
+
+# VSCode settings
+.vscode/
+
+# IDEs
+.idea/
+*.iml
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Cache
+*.cache
+*.pkl
+
+# Tkinter related
+*.tcl
+*.tk
+
+# Compiled files
+*.pyc
+*.pyo
+*.so
+
+# Testing
+.coverage
+.cache/
+
+# Misc
+*.bak
+*.swp

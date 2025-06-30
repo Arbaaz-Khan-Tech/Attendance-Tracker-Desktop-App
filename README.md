@@ -1,4 +1,3 @@
-Here’s a detailed `README.md` for your **Attendance Tracker** desktop app project based on everything you’ve shared:
 
 ---
 
@@ -11,7 +10,7 @@ This is a **Python-based student attendance management desktop application** bui
 
 ## 📁 Folder Structure
 
-```
+
 
 Attendance\_Track/
 │
@@ -36,9 +35,8 @@ Attendance\_Track/
 ├── README.md
 └── requirements.txt
 
-````
 
----
+
 
 ## 💡 Features
 
@@ -70,7 +68,7 @@ Attendance\_Track/
 - All views (attendance, department, summary, etc.) are managed **within the same window** using a `show_view()` controller method.
 - No new windows unless modal popups (e.g., add student).
 
----
+
 
 ## 🧠 Tech Stack
 
